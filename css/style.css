@@ -5,6 +5,7 @@ body{
   font-family: 'Merriweather', serif;
 }
 .top-container{
+  height: 607px;
   background-color: #D3DEDC;
   position: relative;
   padding-top: 100px;
